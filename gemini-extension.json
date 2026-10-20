@@ -1,0 +1,13 @@
+{
+  "name": "ferienhausmiete",
+  "version": "1.0.0",
+  "description": "Search 18,000+ privately owned holiday homes on Ferienhausmiete.de with exact stay prices and availability – no booking fees.",
+  "mcpServers": {
+    "ferienhausmiete": {
+      "httpUrl": "https://mcp.ferienhausmiete.de/",
+      "timeout": 30000,
+      "trust": false
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
